@@ -31,9 +31,10 @@ src/main/java/com/econocom/auth_backend/
 ├── config/              # Seguridad JWT, CORS y Swagger
 ├── controller/          # AuthController con login y SSO
 ├── exception/           # Excepciones personalizadas y global handler
-├── model/               # LoginRequest, LoginResponse
+├── dto/                 # LoginRequest, LoginResponse
 ├── security/            # Filtro JwtAuthenticationFilter y JwtUtil
 ├── service/             # AuthService y AuthServiceImpl
+├── util/                # generateToken, validateToken, getClaims
 └── AuthBackendApplication.java
 ```
 ---
