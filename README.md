@@ -15,7 +15,7 @@ Este backend desarrollado en Java 17 con Spring Boot implementa una API de auten
 ## ✨ Funcionalidades
 - Autenticación tradicional mediante endpoint /api/auth/login
 - Generación de token JWT como respuesta en texto plano
-- Simulación de proveedor SSO:
+- Simulación de proveedor SSO.
 - Redirección con código simulado
 - Callback que devuelve un token si el código es válido
 - Validación de campos con Bean Validation (@Valid)
