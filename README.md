@@ -1,4 +1,4 @@
-# Backend Spring Boot — Prueba Técnica de Autenticación y SSO
+# Backend Spring Boot — Autenticación JWT, Seguridad y SSO
 
 ![Backend](https://img.shields.io/badge/backend-Java%2017-orange?style=flat-square)
 ![Framework](https://img.shields.io/badge/framework-Spring%20Boot-6db33f?style=flat-square)
