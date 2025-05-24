@@ -1,14 +1,16 @@
 # Backend Spring Boot — Prueba Técnica de Autenticación y SSO
 
 ![Backend](https://img.shields.io/badge/backend-Java%2017-orange?style=flat-square)
-![Framework](https://img.shields.io/badge/framework-Spring%20WebFlux-6db33f?style=flat-square)
+![Framework](https://img.shields.io/badge/framework-Spring%20Boot-6db33f?style=flat-square)
+![Security](https://img.shields.io/badge/security-JWT-yellow?style=flat-square)
 ![Tests](https://img.shields.io/badge/tests-JUnit%205-blue?style=flat-square)
 
 ---
 
-# 📄 Descripción
-**Este backend desarrollado en Java 17 con Spring Boot implementa una API de autenticación segura basada en JWT. Ofrece login tradicional con email y contraseña, así como una simulación de flujo SSO (Single Sign-On) con redirección y validación de código. Está diseñado con arquitectura modular, validaciones robustas y pruebas unitarias e integradas.**
----
+## 📄 Descripción
+
+Este backend desarrollado en Java 17 con Spring Boot implementa una API de autenticación segura basada en JWT. Ofrece login tradicional con email y contraseña, así como una simulación de flujo SSO (Single Sign-On) con redirección y validación de código. Está diseñado con arquitectura modular, validaciones robustas y pruebas unitarias e integradas.
+
 
 ## ✨ Funcionalidades
 - Autenticación tradicional mediante endpoint /api/auth/login
